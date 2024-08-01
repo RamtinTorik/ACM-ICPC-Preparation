@@ -23,3 +23,5 @@ In this repository, we solve problems for the preparation of programming competi
   | [خر در چمن فراوانه .14](https://quera.org/problemset/4065/)     |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/014.%20DonkeysAboundInTheGrass)                       |
   | [توان دو .15](https://quera.org/problemset/616/)                |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/015.%20PowerTwo)                                      |
   | [کامل بودن یا نبودن .16](https://quera.org/problemset/282/)     |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/016.%20PerfectionOrNot)                               |
+  | [چاپ مربع .17](https://quera.org/problemset/591/)               |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/017.%20SquarePrinting)                                |
+  | [بهداشت و سلامت .18](https://quera.org/problemset/51865)         |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/018.%20SanitationAndHealth)                           |
