@@ -25,6 +25,8 @@ In this repository, we solve problems for the preparation of programming competi
   | [کامل بودن یا نبودن .16](https://quera.org/problemset/282/)     |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/016.%20PerfectionOrNot)                               |
   | [چاپ مربع .17](https://quera.org/problemset/591/)               |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/017.%20SquarePrinting)                                |
   | [بهداشت و سلامت .18](https://quera.org/problemset/51865)         |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/018.%20SanitationAndHealth)                           |
-  | [‫کمک‬‫ به‬ ‫کاپی‬ .19](https://quera.org/problemset/8838/)           |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/019.%20HelpToCapy)                                    |
-  | [‫آخ‬‫ جون‬ ‫طرف‬ ‫نیست!‬ .20](https://quera.org/problemset/3538/)      |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/020.%20AkheJonTarfNist)                               |
-  | [‫شطرنج ‬‫حرفه‬ ‫ای‬ .21](https://quera.org/problemset/2636/)         |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/021.%20%20ProfessionalChess)                           |
+  | [کمک به کاپی .19](https://quera.org/problemset/8838/)           |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/019.%20HelpToCapy)                                    |
+  | [آخ جون طرف نیست! .20](https://quera.org/problemset/3538/)      |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/020.%20AkheJonTarfNist)                               |
+  | [شطرنج حرفه ای .21](https://quera.org/problemset/2636/)         |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/021.%20%20ProfessionalChess)                          |
+  | [صدگان خسته .22](https://quera.org/problemset/3406)             |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/022.%20HundredsAreTired)                              |
+
