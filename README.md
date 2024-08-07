@@ -29,4 +29,4 @@ In this repository, we solve problems for the preparation of programming competi
   | [آخ جون طرف نیست! .20](https://quera.org/problemset/3538/)      |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/020.%20AkheJonTarfNist)                               |
   | [شطرنج حرفه ای .21](https://quera.org/problemset/2636/)         |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/021.%20%20ProfessionalChess)                          |
   | [صدگان خسته .22](https://quera.org/problemset/3406)             |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/022.%20HundredsAreTired)                              |
-
+  | [رژیم سخت .23](https://quera.org/problemset/20256)              |[Solution](https://github.com/RamtinTorik/ACM-ICPC-Preparation/tree/main/023.%20HardDiet)                                      |
